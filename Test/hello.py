@@ -2,6 +2,7 @@
 
 print('Hello, world!')
 print('Hello, Jon')
+print('How are you')
 """
 # Variables
 x = 10
